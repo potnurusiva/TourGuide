@@ -1,0 +1,106 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Bangalore Tour Guide</string>
+
+    <!-- Category name for malls [CHAR LIMIT=20] -->
+    <string name="category_malls">Malls</string>
+
+    <!-- Category name for bangalore rounds [CHAR LIMIT=20] -->
+    <string name="category_rounds">Rounds</string>
+
+    <!-- Category name for restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for techno parks [CHAR LIMIT=20] -->
+    <string name="category_techno_parks">Techno Parks</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Category Malls names and their addresses -->
+    <string name="phoenix_mall">Phoenix Marketcity</string>
+    <string name="phoenix_address">Whitefield Main Road, Mahadevpura - 560048</string>
+    <string name="forum_mall">The Forum Value Mall</string>
+    <string name="forum_address">Prestige Ozone, Whitefield - 560066</string>
+    <string name="central_mall">Bangalore Central Mall</string>
+    <string name="central_address">Near, Field Marshal Cariappa Rd, Ashok Nagar - 560001</string>
+    <string name="pvr_mall">PVR Soul Space</string>
+    <string name="pvr_address">Belandur Junction, Opp. Acme Hormony Plaza, Outer Ring Road - 560103</string>
+    <string name="inorbit_mall">Inorbit Mall</string>
+    <string name="inorbit_address">EPIP Area, Whitefield - 560066</string>
+    <string name="garuda_mall">Garuda Mall</string>
+    <string name="garuda_address">Magrath Rd, Ashok Nagar - 560025</string>
+    <string name="orion_mall">Orion Mall</string>
+    <string name="orion_address">Rajkumar Road, Malleshwaram West - 560055</string>
+    <string name="gopalan_mall">Gopalan Innovation Mall</string>
+    <string name="gopalan_address">Near-Mico Checkpost, Bannerghatta Main Road - 560076</string>
+    <string name="ascendas_mall">Ascendas Park Square Mall</string>
+    <string name="ascendas_address">ITPL, Whitefield - 560066</string>
+
+    <!--Category Bangalore rounds and their addresses -->
+    <string name="isckon_temple">ISKCON Temple</string>
+    <string name="isckon_address">Hare Krishna Hill, Chord Rd, Rajaji Nagar - 560010</string>
+    <string name="cubbon_park">Cubbon Park</string>
+    <string name="cubbon_address">Behind High Court, Ambedkar Veedhi - 560001</string>
+    <string name="lal_bagh">Lal Bagh Garden</string>
+    <string name="lal_bagh_address">Lal Bagh Rd - 560004</string>
+    <string name="visvesvaraya_museum">Visvesvaraya Museum</string>
+    <string name="visvesvaraya_address">Kasturba Road, Beside Government Museum - 560001</string>
+    <string name="vidhanasoudha">Vidhana Soudha</string>
+    <string name="vidhanasoudha_address">Dr Ambedkar Rd, Sampangi Ramnagar - 560001</string>
+    <string name="tippu_palace">Tipu Sultan\'s Palace</string>
+    <string name="tippu_palace_address">Allbert Victor Road, Chamrajpet - 560018</string>
+    <string name="shiva_temple">Shiva temple</string>
+    <string name="shiva_temple_address">Near Kemp Fort Mall - 560017</string>
+
+    <!--Category Restaurants and their addresses-->
+    <string name="toit_restaurant">Toit</string>
+    <string name="toit_address">100 Feet Road, Indira Nagar II Stage - 560038</string>
+    <string name="chianti_restaurant">Chianti</string>
+    <string name="chianti_address">HAL 2nd Stage,Indiranagar - 560008</string>
+    <string name="fisherman_restaurant">The Fisherman\'s Wharf</string>
+    <string name="fisherman_address">Haralur Road, Varthur Hobli - 560102</string>
+    <string name="karavalli_restaurant">Karavalli</string>
+    <string name="karavalli_address">The Gateway Hotel - 560025</string>
+    <string name="punjab_grill_restaurant">Punjab Grill</string>
+    <string name="punjab_grill_address">SJR Primus, Koramangala - 560095</string>
+    <string name="samarkand_restaurant">Samarkand</string>
+    <string name="samarkand_address">Gem Plaza, Infantry Road - 560001</string>
+    <string name="meghana_restaurant">Meghana Foods</string>
+    <string name="meghana_address">KHB Colony, Koramangala - 560095</string>
+    <string name="absolute_restaurant">Absolute Barbecue</string>
+    <string name="absolute_address">Marathahalli Outer Ring Road - 560037</string>
+
+    <!--Category Techno parks and their addresses-->
+    <string name="bagmane_tech_park">Bagmane Tech Park</string>
+    <string name="bagmane_address">C V Raman Nagar - 560093</string>
+    <string name="itpl_tech_park">ITPL (International Tech Park)</string>
+    <string name="itpl_address">ITPL Main Rd - 560066</string>
+    <string name="ecospace_tech_park">Ecospace Business Park</string>
+    <string name="ecospace_address">Outer Ring Road, Marathahalli - 560103</string>
+    <string name="manyata_tech_park">Manyata Tech Park</string>
+    <string name="manyata_address">Bangalore Corporation Industrial Estate, Nagavara - 560045</string>
+    <string name="electronic_tech_park">Electronic City</string>
+    <string name="electronic_address">Electronic City - 560100</string>
+    <string name="cessna_tech_park">Cessna Business Park</string>
+    <string name="cessna_address">Embassy Tech Square Main Rd, Kadubeesanahalli - 560103</string>
+    <string name="rmz_tech_park">RMZ Infinity</string>
+    <string name="rmz_address">Swamy Vivekananda Rd, Sadanandanagar - 560033</string>
+    <string name="embassy_tech_park">Embassy Golflinks</string>
+    <string name="embassy_address">Royal Oaks Off, Intermediate Ring Road - 560037</string>
+
+</resources>
